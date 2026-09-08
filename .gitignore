@@ -1,0 +1,13 @@
+# Recallog local-only files
+.env
+.env.*
+!.env.example
+*.local
+secrets/
+cache/
+logs/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
