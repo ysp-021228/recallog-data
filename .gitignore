@@ -11,3 +11,4 @@ logs/
 *.bak
 .DS_Store
 Thumbs.db
+.recallog-backups/
