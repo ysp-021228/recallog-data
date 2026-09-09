@@ -1,2 +1,3 @@
 {"id":"a24923fc-971d-41f1-9ea5-8f689b28481d","date":"2026-09-09","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","involved":true,"text":"项目开工"}
 {"id":"0c5d807c-c25d-4565-b4f6-8c5135e3de7a","date":"2026-09-09","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","involved":true,"text":"行走电机选型重选，从灵足01换成灵足02，可以支持48V平台电池。"}
+{"id":"747aeb14-dafe-49ce-8470-41ad4a51bb06","date":"2026-09-09","project_id":"4b974eff-2adb-4612-a80f-260651723cca","involved":false,"text":"APP测试了建图，建图还存在问题，保存的时候可能地图名称为空导致失败，已修改待验证。"}
