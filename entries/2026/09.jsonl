@@ -3,3 +3,4 @@
 {"id":"747aeb14-dafe-49ce-8470-41ad4a51bb06","date":"2026-09-09","project_id":"4b974eff-2adb-4612-a80f-260651723cca","involved":true,"text":"APP测试了建图，建图还存在问题，保存的时候可能地图名称为空导致失败，已修改待验证。"}
 {"id":"973e8816-9901-4e7c-8475-d9f35c893144","date":"2026-09-09","project_id":"4b974eff-2adb-4612-a80f-260651723cca","involved":true,"text":"APP传输积压问题，尝试降低频率解决了，还是积压，最后换成本地手机局域网就行了，怀疑是tailscale带宽太小。"}
 {"id":"1ba37e53-613d-4d60-8399-d21289d92ecf","date":"2026-09-09","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","involved":false,"text":"电源板PVT2的打样竟然今天还没把pcb发出，催促紧急发出，贴片完之后回来上治具测试，今天只购买了元件，还得等到货才能发去做PCBA。"}
+{"id":"0f027766-5b28-4251-9765-168cb9c82390","date":"2026-09-07","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","involved":true,"text":"设计除雪机需求，初步整理除雪机硬件需求。"}
