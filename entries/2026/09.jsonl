@@ -20,3 +20,11 @@
 {"id":"7840b160-1d0e-4329-800b-fba3614f8668","date":"2026-09-15","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"充电板改完，寄回公司测试，测完发给了安普沃"}
 {"id":"77566186-4476-47fa-97c3-74bdadb8ddd8","date":"2026-09-16","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":false,"text":"华秋寄出地址被硬件填错，导致寄给安普沃了，又得要安普沃寄回"}
 {"id":"6f60574f-9fd8-43ce-85e2-129d75fa3491","date":"2026-09-17","project_id":"1782b5ec-f660-47a7-a5d5-a1b62d9c3bb7","company_id":null,"involved":false,"text":"舵轮底盘今天左后轮轴打滑了，只能下周维修"}
+{"id":"5eede387-eea7-4543-8558-c19f86aa60bc","date":"2026-09-17","project_id":"4b974eff-2adb-4612-a80f-260651723cca","company_id":null,"involved":false,"text":"尝试第一次交付验收，但是app样式太差\n"}
+{"id":"0071c28a-8ced-444f-87cf-d1936187171e","date":"2026-09-17","project_id":"4b974eff-2adb-4612-a80f-260651723cca","company_id":null,"involved":true,"text":"为了分清地图是哪张，给地图状态添加了名称和id"}
+{"id":"826ecfae-6ce7-4a27-8a9e-ad8d7e092133","date":"2026-09-17","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","company_id":null,"involved":true,"text":"整理好了主板需求发给了成都外包"}
+{"id":"395c596f-33f3-41c1-b88f-54726b961deb","date":"2026-09-17","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","company_id":null,"involved":true,"text":"购买了2个灵足02电机"}
+{"id":"59a96271-652e-499a-a903-45bec4031a00","date":"2026-09-17","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":false,"text":"电容电池相关的东西以及做好了去测试的准备，治具全部烧录好了代码"}
+{"id":"920d1ac8-f377-42ef-bada-875ce8419322","date":"2026-09-17","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"基站后续要联系mjf工厂，磕碰和划痕看看是否要返工，下一版背面左侧全部开孔，右侧全部封闭，然后下周测试安装一下，还有硬件板框要尽快确定。同时准备激光烧结电池座。下周要总装测试出问题。"}
+{"id":"e20af9e1-b8b4-47a7-9863-5a57f5c30893","date":"2026-09-17","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"充电板固件更新了，但是没测试，明天去安普沃一起测试"}
+{"id":"5b696f7c-2803-4384-b49e-28682fd1c4b3","date":"2026-09-17","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"发现了ai找不到关键词就不回复了，尝试修复这个问题"}
