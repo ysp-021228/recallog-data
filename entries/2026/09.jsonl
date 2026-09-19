@@ -28,3 +28,5 @@
 {"id":"920d1ac8-f377-42ef-bada-875ce8419322","date":"2026-09-17","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"基站后续要联系mjf工厂，磕碰和划痕看看是否要返工，下一版背面左侧全部开孔，右侧全部封闭，然后下周测试安装一下，还有硬件板框要尽快确定。同时准备激光烧结电池座。下周要总装测试出问题。"}
 {"id":"e20af9e1-b8b4-47a7-9863-5a57f5c30893","date":"2026-09-17","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"充电板固件更新了，但是没测试，明天去安普沃一起测试"}
 {"id":"5b696f7c-2803-4384-b49e-28682fd1c4b3","date":"2026-09-17","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"发现了ai找不到关键词就不回复了，尝试修复这个问题"}
+{"id":"e606f650-8534-45bb-a795-184133a7cb50","date":"2026-09-18","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":true,"text":"pvt2 pack一共18个，在安普沃组装了16个，2个硬件忘了带，16个全部通过治具测试"}
+{"id":"92f8c9c4-903f-4755-969c-a5c7776759ea","date":"2026-09-18","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"烧录固件之后，充电板通讯没有问题，准备做新一版"}
