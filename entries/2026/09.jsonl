@@ -30,3 +30,5 @@
 {"id":"5b696f7c-2803-4384-b49e-28682fd1c4b3","date":"2026-09-17","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"发现了ai找不到关键词就不回复了，尝试修复这个问题"}
 {"id":"e606f650-8534-45bb-a795-184133a7cb50","date":"2026-09-18","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":true,"text":"pvt2 pack一共18个，在安普沃组装了16个，2个硬件忘了带，16个全部通过治具测试"}
 {"id":"92f8c9c4-903f-4755-969c-a5c7776759ea","date":"2026-09-18","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"烧录固件之后，充电板通讯没有问题，准备做新一版"}
+{"id":"2067383a-4252-4089-9c24-3b4a0b2f7527","date":"2026-09-19","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"电池座的尼龙打印，投出去两家，便宜的安徽先风增材，0.79元/g，打印了两个，然后贵的公司叫匠新，也打印两个。钱都垫付的先"}
+{"id":"e5472ddc-e451-4aee-9e49-429f7bc695b5","date":"2026-09-19","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"ai搜索功能没加更多限制了，主要交给模型自行判断，然后开始修复UI上面的一些问题"}
