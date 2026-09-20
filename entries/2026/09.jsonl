@@ -36,3 +36,4 @@
 {"id":"9a954622-8d4f-498b-9ee5-71d99641372d","date":"2026-09-20","project_id":null,"company_id":"219fa9dd-2b8f-4a10-b10c-2df9227b8106","involved":true,"text":"今天把公司车洗了，60元自费，反正自愿洗"}
 {"id":"0308b6fd-8207-4da1-828b-c4ef925b8c66","date":"2026-09-20","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"把bom放到云文档了，但是目前我对照不上物品，今天属于没有太多进展，不过返工的外壳回来了，看起来效果还行"}
 {"id":"2ccfa359-9713-4afa-801c-129b1cf8c7bb","date":"2026-09-20","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":false,"text":"最后测一次充电方案二，然后就准备做新的充电板了"}
+{"id":"da405459-a06c-4abb-b63b-a2e27c310ca9","date":"2026-09-20","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"电池规格书检查有没有更新，没更新了就找外包硬件确认一下，然后我们自己验一下电池是不是对得上，然后准备备料"}
