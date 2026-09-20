@@ -32,3 +32,7 @@
 {"id":"92f8c9c4-903f-4755-969c-a5c7776759ea","date":"2026-09-18","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"烧录固件之后，充电板通讯没有问题，准备做新一版"}
 {"id":"2067383a-4252-4089-9c24-3b4a0b2f7527","date":"2026-09-19","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"电池座的尼龙打印，投出去两家，便宜的安徽先风增材，0.79元/g，打印了两个，然后贵的公司叫匠新，也打印两个。钱都垫付的先"}
 {"id":"e5472ddc-e451-4aee-9e49-429f7bc695b5","date":"2026-09-19","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"ai搜索功能没加更多限制了，主要交给模型自行判断，然后开始修复UI上面的一些问题"}
+{"id":"c09defb5-d92a-4e20-b930-5466810cf2c4","date":"2026-09-20","project_id":"4b974eff-2adb-4612-a80f-260651723cca","company_id":null,"involved":true,"text":" 今天软件产品经理在验收app，我感觉她验收不明白，这事今天肯定没结果"}
+{"id":"9a954622-8d4f-498b-9ee5-71d99641372d","date":"2026-09-20","project_id":null,"company_id":"219fa9dd-2b8f-4a10-b10c-2df9227b8106","involved":true,"text":"今天把公司车洗了，60元自费，反正自愿洗"}
+{"id":"0308b6fd-8207-4da1-828b-c4ef925b8c66","date":"2026-09-20","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"把bom放到云文档了，但是目前我对照不上物品，今天属于没有太多进展，不过返工的外壳回来了，看起来效果还行"}
+{"id":"2ccfa359-9713-4afa-801c-129b1cf8c7bb","date":"2026-09-20","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":false,"text":"最后测一次充电方案二，然后就准备做新的充电板了"}
