@@ -39,3 +39,5 @@
 {"id":"da405459-a06c-4abb-b63b-a2e27c310ca9","date":"2026-09-20","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"电池规格书检查有没有更新，没更新了就找外包硬件确认一下，然后我们自己验一下电池是不是对得上，然后准备备料"}
 {"id":"493d7c42-b2bc-44c8-a341-019fc5a59c86","date":"2026-09-20","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"添加了主题切换和ai搜索框的md格式支持"}
 {"id":"1a29fc57-aefe-4248-be5d-5c06f5c56872","date":"2026-09-21","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"Windows RC packaged entry"}
+{"id":"cdebfc2b-cf96-4ff7-b287-5a2b8b400031","date":"2026-09-21","project_id":"1782b5ec-f660-47a7-a5d5-a1b62d9c3bb7","company_id":null,"involved":true,"text":"灵足05电机坏了一个，扭矩上不去了"}
+{"id":"c511ea20-b0e4-40d5-9898-7d29a3c8b50a","date":"2026-09-21","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","company_id":null,"involved":true,"text":"2个灵足02电机收货了，正常工作"}
