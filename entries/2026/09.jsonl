@@ -43,3 +43,7 @@
 {"id":"c511ea20-b0e4-40d5-9898-7d29a3c8b50a","date":"2026-09-21","project_id":"8d86752e-aaa4-43f0-bb01-7e56d095b6c7","company_id":null,"involved":true,"text":"2个灵足02电机收货了，正常工作"}
 {"id":"1a3c2191-3926-4833-9919-560f42f19ff7","date":"2026-09-21","project_id":"1782b5ec-f660-47a7-a5d5-a1b62d9c3bb7","company_id":null,"involved":true,"text":"换了个也坏掉的青春版的05电机凑合着用，然后买了两个新的05电机"}
 {"id":"1971440d-a904-4087-a8bb-3eec5f53f1ad","date":"2026-09-21","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"硬件开始改充电板了，应该是最终方案了"}
+{"id":"df2b7f05-1948-4c8f-8a97-2140cb1337a9","date":"2026-09-22","project_id":"1782b5ec-f660-47a7-a5d5-a1b62d9c3bb7","company_id":null,"involved":true,"text":"局部规划器从DWB换成MPPI"}
+{"id":"7b721687-95cc-44ed-b1ac-44f45c08a3b7","date":"2026-09-22","project_id":"4b974eff-2adb-4612-a80f-260651723cca","company_id":null,"involved":true,"text":"今天同事一直在拍启动灯效，目前割草机启动灯效idle模式换成青色了"}
+{"id":"7cb747de-c22e-429f-b7f1-855422602898","date":"2026-09-22","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"今天确认了电池规格书和实际测量之间的问题，电池应该是没问题了，只是我们充电板有问题"}
+{"id":"d161dbb3-bb9c-4cbf-8df8-55ce7874bb08","date":"2026-09-22","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"ubuntu和windows都测试完毕了"}
