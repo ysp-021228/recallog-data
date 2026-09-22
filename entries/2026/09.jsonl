@@ -47,3 +47,4 @@
 {"id":"7b721687-95cc-44ed-b1ac-44f45c08a3b7","date":"2026-09-22","project_id":"4b974eff-2adb-4612-a80f-260651723cca","company_id":null,"involved":true,"text":"今天同事一直在拍启动灯效，目前割草机启动灯效idle模式换成青色了"}
 {"id":"7cb747de-c22e-429f-b7f1-855422602898","date":"2026-09-22","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"今天确认了电池规格书和实际测量之间的问题，电池应该是没问题了，只是我们充电板有问题"}
 {"id":"d161dbb3-bb9c-4cbf-8df8-55ce7874bb08","date":"2026-09-22","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"ubuntu和windows都测试完毕了"}
+{"id":"c889c2a6-3445-4eac-92ae-6ddbb90414b7","date":"2026-09-21","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"Windows RC packaged entry"}
