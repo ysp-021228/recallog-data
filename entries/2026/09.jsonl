@@ -48,3 +48,4 @@
 {"id":"7cb747de-c22e-429f-b7f1-855422602898","date":"2026-09-22","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":false,"text":"今天确认了电池规格书和实际测量之间的问题，电池应该是没问题了，只是我们充电板有问题"}
 {"id":"d161dbb3-bb9c-4cbf-8df8-55ce7874bb08","date":"2026-09-22","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"ubuntu和windows都测试完毕了"}
 {"id":"c889c2a6-3445-4eac-92ae-6ddbb90414b7","date":"2026-09-21","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"Windows RC packaged entry"}
+{"id":"6fe00f54-14af-4f75-8a8f-fadf5fc14b0b","date":"2026-09-23","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"装配了基站，目前基站存在问题：\n电池充电座处有瑕疵\n磁铁没有\n开关手感不好\n东西基本都比较缺少\n充电磁吸那块板子的孔位画反了"}
