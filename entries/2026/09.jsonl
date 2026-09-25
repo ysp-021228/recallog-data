@@ -50,3 +50,4 @@
 {"id":"c889c2a6-3445-4eac-92ae-6ddbb90414b7","date":"2026-09-21","project_id":"0e499274-b8eb-4f5a-8269-9e36c077ddd5","company_id":null,"involved":true,"text":"Windows RC packaged entry"}
 {"id":"7d5e2df8-8906-4f9c-b1d4-5377c1d4d225","date":"2026-09-22","project_id":"8e7f6e72-24c9-4ce3-87f0-7f6efbf70d32","company_id":null,"involved":false,"text":"仪器寄回给倍测了，他们会明天上午开始做整改工作"}
 {"id":"6fe00f54-14af-4f75-8a8f-fadf5fc14b0b","date":"2026-09-23","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"装配了基站，目前基站存在问题：\n电池充电座处有瑕疵\n磁铁没有\n开关手感不好\n东西基本都比较缺少\n充电磁吸那块板子的孔位画反了"}
+{"id":"f5a91d19-b781-43f4-a470-1b5287e0104b","date":"2026-09-24","project_id":"d922fad6-c19a-4157-8200-b3115d77ae6d","company_id":null,"involved":true,"text":"基站目前代办：\n脚垫不要了\n用电器三家互相对其\n连接器部分：AC用sr哥的那一套，要改外壳孔，直接找mjf公司改；DC找sr哥要6pin的，然后线材定制需求把老的给他看。\n储存仓的金属杆要买\n需要确认侧面用来粘马口铁的胶水\n主板螺孔柱加高到6mm"}
